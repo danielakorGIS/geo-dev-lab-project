@@ -2,7 +2,7 @@
 
 \## The question
 
-\- Which wards in Yola-North LGA are more than 5km from educational facility?
+\- Which wards in Yola-North LGA are more than 2km from educational facility?
 
 \## Data that I need
 
