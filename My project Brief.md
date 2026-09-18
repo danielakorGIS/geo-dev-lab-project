@@ -2,16 +2,17 @@
 
 \## The question
 
-How has the urban built-up area of Nsukka expanded from 2018 to 2025?
+\- Which wards in Yola-North LGA are more than 5km from educational facility?
 
 \## Data that I need
 
-\- LGA boundary – GRID3 - <https://data.grid3.org/>
+\- Nigeria Ward Boundaries – GRID3 - [<https://data.grid3.org/>](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-wards-v3-0/about) - 128 mb
 
-\- Road – Via Quick OSM
+\- Nigeria LGA Boundaries – GRID3 -  [https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about) - 26 mb
 
-\- Population - <https://www.worldpop.org/>
+\- Nigeria State Boundaries – GRID3 - [<https://data.grid3.org/>](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-state-boundaries-/about) - 645 kb
 
-\- Elevation – Copernicus DEM - <https://portal.opentopography.org/datasets>
 
-\- LULC - <https://livingatlas.arcgis.com/landcover/>
+\- Educational Facility Data -  [<https://www.worldpop.org/>](https://data.humdata.org/dataset/hotosm_nga_education_facilities/resource/75c2a4da-d94f-46a2-bd53-69daab9a27d9) - 694.3 kb
+
+\- Road Data – extracted using Quick OSM plugin in QGIS for the study Area
