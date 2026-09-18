@@ -13,6 +13,6 @@
 \- Nigeria State Boundaries – GRID3 - [<https://data.grid3.org/>](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-state-boundaries-/about) - 645 kb
 
 
-\- Educational Facility Data -  [<https://www.worldpop.org/>](https://data.humdata.org/dataset/hotosm_nga_education_facilities/resource/75c2a4da-d94f-46a2-bd53-69daab9a27d9) - 694.3 kb
+\- Educational Facility Data -  https://data.humdata.org/dataset/hotosm_nga_education_facilities/resource/75c2a4da-d94f-46a2-bd53-69daab9a27d9 - 694.3 kb
 
 \- Road Data – extracted using Quick OSM plugin in QGIS for the study Area
