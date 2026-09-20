@@ -16,3 +16,6 @@
 - 2,742 features, lines
 - Many have no surface tag, so paved and unpaved cannot be separated everywhere
 - Coverage looks good in the built-up area, sparse at the edges with less built-up.
+
+\## CRS and Preparation 
+
